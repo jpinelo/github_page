@@ -1,2 +1,3 @@
-## Joao Pinelo Silva
+# Joao Pinelo
+
 [My website](https://joaopinelo.com)
